@@ -1,3 +1,5 @@
+
+```dbml
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
 
@@ -23,8 +25,11 @@ Table posts {
   created_at timestamp
 }
 
+
 Ref: posts.user_id > users.id // many-to-one
 
 Ref: users.id < follows.following_user_id
 
 Ref: users.id < follows.followed_user_id
+
+```
