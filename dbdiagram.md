@@ -2,6 +2,7 @@
 ```dbml
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
+// Site: https://dbdiagram.io/home
 
 Table follows {
   following_user_id integer

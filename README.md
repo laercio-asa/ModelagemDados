@@ -44,8 +44,19 @@ Por exemplo, se você estiver capturando e armazenando informações sobre resta
 - Modelo Físico
 
 
+## Objetos
+
 - Tabelas
 - Colunas
 - Atributos
 - Relacionamentos
 
+
+
+## Saida mais em:
+
+[TryBe](https://blog.betrybe.com/tecnologia/bancos-de-dados/)
+
+[Microsoft](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-are-databases)
+
+[Empregos](https://programathor.com.br/)

@@ -36,8 +36,4 @@
 | Valor Padrão | Default: |
 
 
-https://dbdiagram.io/home
-https://survey.stackoverflow.co/2023/#databases
-https://blog.betrybe.com/tecnologia/bancos-de-dados/
-https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-are-databases
-
+[Utilização de Bancos de Dados](https://survey.stackoverflow.co/2023/#database)
